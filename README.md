@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [I switched to Neovim from VSCode as my main IDE](https://blog.nawaz.info/i-switched-to-neovim-from-vscode-as-my-main-ide)
 - [My NextJS Setup](https://blog.nawaz.info/my-nextjs-setup)
 - [Attempt to Learn Elixir: Thinking in Elixir](https://blog.nawaz.info/attempt-to-learn-elixir-thinking-in-elixir)
 - [Deploy FastAPI Application on Ubuntu with Nginx, Gunicorn and Uvicorn](https://blog.nawaz.info/deploy-fastapi-application-on-ubuntu-with-nginx-gunicorn-and-uvicorn)
 - [Attempt to Learn Elixir: Absolute Basics](https://blog.nawaz.info/attempt-to-learn-elixir-absolute-basics)
-- [Attempt to Learn Elixir: The Introduction](https://blog.nawaz.info/attempt-to-learn-elixir-the-introduction)
 <!-- BLOG-POST-LIST:END -->
