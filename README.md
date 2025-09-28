@@ -1,8 +1,8 @@
-### Hi there 👋
-I am a Full Stack Developer from Dhaka, Bangladesh. I am passionate about learning new tools and technologies and sharing my knowledge with others. 
+### Hello folks 👋
+I am a life long learner and tech tinkerer. Making and breaking systems. Learning from mistakes. Sharing my struggles and wins with the world.
 
-- 🔭 I’m currently working as a Sr. Backend Developer.
-- 🌱 I’m currently learning **Golang** and **Elixir**
+- 🔭 I’m currently working as a Senior Software Engineer
+- 🌱 I’m currently learning **Python**, **TypeScript**, **Golang** and **Elixir**
 - 👯 I’m looking to collaborate on any Elixir project
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shuv1824/), [Twitter](https://twitter.com/shuv1824), [Personal Site](https://nawaz.info)
 - 😄 Pronouns: He/Him
